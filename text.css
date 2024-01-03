@@ -1,0 +1,53 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(200, 224, 222);
+}
+.bloc{
+    text-align: center;
+    margin-top: 30vh;
+    font-size: 20px;
+}
+.pass{
+    margin-bottom: 20px;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    border: 10px;
+}
+.mail{
+    margin-bottom: 20px;
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    border: 10px;
+}
+p{
+    font-size: 12px;
+    margin-bottom: 50px;
+}
+button{
+    width: 300px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: blue;
+    color: aliceblue;
+    font-size: 15px;
+    border: 0px;
+}
+.cree{
+    border: solid 2px;
+    margin: 0px 500px;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    border-color: rgb(42, 106, 226);
+    color: rgb(19, 87, 214);
+}
+.titre{
+    font-size: 30px;
+    padding-bottom: 50px;
+    color: rgb(4, 122, 233);
+}
